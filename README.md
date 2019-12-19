@@ -2,7 +2,7 @@
 
 This is a project for natural language proocessing (NLP) exercises using the scripts from the Canadian TV show "Letterkenny." 
 
-If you wish to contribute to this project by helping collect the scripts, please e-mail me at hjhuney at gmail dot com. 
+If you wish to contribute to this project by helping collect and format the scripts, please e-mail me at hjhuney at gmail dot com. 
 
 Currently, we have collected scripts from 3 episodes, for 1383 lines of dialogue. 
 
