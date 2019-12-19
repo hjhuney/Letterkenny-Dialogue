@@ -1,6 +1,6 @@
 # Letterkenny-Dialogue
 
-
+A repo for natural language proocessing (NLP) with scripts from the Canadian TV show "Letterkenny." 
 
 
 ## NLP Resources
